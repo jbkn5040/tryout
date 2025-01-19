@@ -1,0 +1,41 @@
+h1 {
+    color: blue;
+    background-color: aqua;
+    font-size: 100px;
+    text-decoration: none;
+    font-family: sans-serif;
+    text-align: center;
+    border-bottom: solid 5px orange;
+    border-left: 8px dashed;
+    border-top: 3px solid;
+    border-right: 8px dashed purple;
+}
+
+p {
+    color: magenta;
+    text-align: center;
+    font-size: 45px;
+    line-height: 55x;
+    letter-spacing: 1px;
+    column-count: 2;
+    column-gap: 25px;
+    font-style: italic;
+}
+
+li {
+    list-style-type: disc;
+    font-size: 45px;
+    text-shadow: 2px 2px lightgrey
+}
+
+div {
+    border: 2px solid crimson;
+    margin: 20px;
+    padding: 20px;
+}
+
+span {
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;
+}
