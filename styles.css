@@ -1,41 +1,41 @@
-h1 {
-    color: blue;
-    background-color: aqua;
-    font-size: 100px;
-    text-decoration: none;
-    font-family: sans-serif;
-    text-align: center;
-    border-bottom: solid 5px orange;
-    border-left: 8px dashed;
-    border-top: 3px solid;
-    border-right: 8px dashed purple;
+.error {
+    border:solid 5px red;
+    padding:5px;
+    text-align:center;
 }
-
+body {
+    background-image: url('images/gtr.webp');
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    height: 150vh;
+}
 p {
-    color: magenta;
-    text-align: center;
-    font-size: 45px;
-    line-height: 55x;
-    letter-spacing: 1px;
-    column-count: 2;
-    column-gap: 25px;
-    font-style: italic;
-}
+    float: right;
+    color: white;
+    padding: 25px;
+    margin: 25px;
+    font: 100px;
+    font-weight: bold;
 
-li {
-    list-style-type: disc;
-    font-size: 45px;
-    text-shadow: 2px 2px lightgrey
+.flex-container {
+    flex-wrap: wrap;
 }
-
-div {
-    border: 2px solid crimson;
-    margin: 20px;
-    padding: 20px;
+.important {
+    color: azure;
+    font-size: 35px;
+    text-align: left;
+    overflow: visible;
+    overflow-y: visible;
+    float: right;
 }
-
-span {
-    display: inline-block;
-    margin: 20px;
-    padding: 20px;
+ul {
+    color: whitesmoke;
+    border: 7px solid white;
 }
+    
+    
+    
+    
