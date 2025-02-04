@@ -1,2 +1,2 @@
 <strong>Author</strong>: Joshua Kamau<br>
-Description: A website giving favourite photos of the nissan gtr r35
+<strong>Description</strong>: A website giving favourite photos of the nissan gtr r35
